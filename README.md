@@ -1,2 +1,3 @@
-# ConverdorImagenesCD
-Repositorio el cual contiene el codigo fuente e info adicional del trabajo de la materia 'Comunicación de Datos'
+# Conversor de Imágenes
+
+Proyecto para muestreo, cuantización y compresión de imágenes analógicas usando Flask + React.
